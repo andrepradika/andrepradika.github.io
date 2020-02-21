@@ -60,4 +60,4 @@ Favorite
 ======
 * Hobby
   * Subject : Machine Learning & Data Driven
-  * Subject : Python
+  * Language : Python
