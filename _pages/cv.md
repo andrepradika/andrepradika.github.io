@@ -13,6 +13,11 @@ Education
 ======
 * B.S. in Informatics, Telkom Institute of Technology Purwokerto, 3.90 , 2020
   * Minor : Intelligent Systems
+  
+Certificate
+======
+* Certified Software Development - Programmer, 2019
+  * Indonesian Professional Certification Authority (BNSP)
 
 Experience
 ======
@@ -27,45 +32,32 @@ Experience
   * Informatics Research Club
   * Telkom Institute of Technology Purwokerto
   
- * Apr 2017-Apr 2018: Treasurer
+* Apr 2017-Apr 2018: Treasurer
   * Informatics Research Club
   * Telkom Institute of Technology Purwokerto
 
- * Apr 2017-Apr 2018: Staff Research Division
+* Apr 2017-Apr 2018: Staff Research Division
   * Himpunan Mahasiswa Informatika (HMIF)
   * Telkom Institute of Technology Purwokerto
   
- * Apr 2016-Apr 2017: Member
+* Apr 2016-Apr 2017: Member
   * Informatics Research Club
   * Telkom Institute of Technology Purwokerto
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Honor & Reward
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Favorite
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Hobby
+  * Subject : Machine Learning & Data Driven
+  * Subject : Python
