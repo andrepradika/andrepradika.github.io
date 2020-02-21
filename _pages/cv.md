@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+link : http://bit.ly/gomu2no
 Education
 ======
 * B.S. in Informatics, Telkom Institute of Technology Purwokerto, 3.90 , 2020
