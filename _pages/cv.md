@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Informatics, Telkom Institute of Technology Purwokerto, 2020
+* B.S. in Informatics, Telkom Institute of Technology Purwokerto, 3.90 , 2020
+  * Minor : Intelligent Systems
 
 Experience
 ======
