@@ -11,21 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Informatics, Telkom Institute of Technology Purwokerto, 2020
 
-Work experience
+Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019-2020: Senior Member
+  * Sircle Research and Development
+  * Telkom Institute of Technology Purwokerto
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Aug 2019- Sept 2019: Senior Member
+  * Sircle Research and Development
+  * Telkom Institute of Technology Purwokerto
   
 Skills
 ======
