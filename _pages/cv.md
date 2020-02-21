@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-link pdf: http://bit.ly/gomu2no
+[PDF VERSION](http://bit.ly/gomu2no)
 
 Education
 ======
@@ -60,6 +60,5 @@ Honor & Reward
   
 Favorite
 ======
-* Hobby
-  * Subject : Machine Learning & Data Driven
-  * Language : Python
+* Subject : Machine Learning & Data Driven
+* Language : Python
