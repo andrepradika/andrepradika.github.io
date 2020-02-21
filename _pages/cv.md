@@ -15,12 +15,27 @@ Education
 
 Experience
 ======
-* 2019-2020: Senior Member
+* Apr 2019-...: Senior Member
   * Sircle Research and Development
   * Telkom Institute of Technology Purwokerto
 
-* Aug 2019- Sept 2019: Senior Member
-  * Sircle Research and Development
+* Aug 2019-Sept 2019: Web Developer (Intern)
+  * Azata Tech
+  
+* Apr 2018-Apr 2019: Chairman
+  * Informatics Research Club
+  * Telkom Institute of Technology Purwokerto
+  
+ * Apr 2017-Apr 2018: Treasurer
+  * Informatics Research Club
+  * Telkom Institute of Technology Purwokerto
+
+ * Apr 2017-Apr 2018: Staff Research Division
+  * Himpunan Mahasiswa Informatika (HMIF)
+  * Telkom Institute of Technology Purwokerto
+  
+ * Apr 2016-Apr 2017: Member
+  * Informatics Research Club
   * Telkom Institute of Technology Purwokerto
   
 Skills
