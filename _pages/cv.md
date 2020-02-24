@@ -23,7 +23,7 @@ Certificate
 
 Experience
 ======
-* Apr 2019-...: Senior Member
+* Apr 2019-Now: Senior Member
   * Sircle Research and Development
   * Telkom Institute of Technology Purwokerto
 
@@ -50,6 +50,12 @@ Honor & Reward
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+
+Publications
+======
+  <ul>{% for post in site.portfolio %}
+    {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 Publications
