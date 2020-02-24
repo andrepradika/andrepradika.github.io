@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF VERSION](http://bit.ly/gomu2no)
+[PDF VERSION](https://drive.google.com/open?id=1JSr8SIlLiulbWWc-V_3KIbKGXVeHGLP_)
 
 Education
 ======
