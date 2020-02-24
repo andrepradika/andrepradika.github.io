@@ -8,5 +8,5 @@ collection: portfolio
 <img src='/images/yani.png'>
 <img src='/images/yani1.png'>
 <video controls autoplay>
-    <source src="/images/.mp4" type="video/mp4">
+    <source src="/images/dummy.mp4" type="video/mp4">
 </video> 
