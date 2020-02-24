@@ -52,7 +52,7 @@ Honor & Reward
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
-Publications
+Portfolio
 ======
   <ul>{% for post in site.portfolio %}
     {% include archive-single-cv.html %}
