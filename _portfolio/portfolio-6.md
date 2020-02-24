@@ -6,7 +6,9 @@ collection: portfolio
 
 
 <img src='/images/yani.png'>
+<br>
 <img src='/images/yani1.png'>
+<br>
 <video controls autoplay>
     <source src="/images/dummy.mp4" type="video/mp4">
 </video> 
