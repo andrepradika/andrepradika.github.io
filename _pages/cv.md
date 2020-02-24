@@ -46,16 +46,16 @@ Experience
   * Informatics Research Club
   * Telkom Institute of Technology Purwokerto
   
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Honor & Reward
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Favorite
